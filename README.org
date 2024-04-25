@@ -1,0 +1,24 @@
+
+
+Domain selection:
+
++ sat11/sat14/sat18 domains
++ remove duplicate domains
+  + barman-sat11-strips
+  + elevators-sat08-strips
+  + floortile-sat11-strips
+  + openstacks-sat08-adl
+  + openstacks-sat08-strips
+  + openstacks-sat11-strips
+  + parking-sat11-strips
+  + sokoban-sat08-strips
+  + transport-sat08-strips
+  + transport-sat11-strips
+  + visitall-sat11-strips
+  + woodworking-sat08-strips
+
++ remove original domains in favor of split domains
+  + caldera-sat18-adl
+  + organic-synthesis-sat18-strips
+
+
